@@ -1,0 +1,67 @@
+#WorkDate{
+    padding-top: 50px;
+    color: black;
+  
+    border: solid;
+    font-size: large;
+    font-style: italic;
+}
+
+#mainDiv{
+
+   background: url(https://nftstorage.link/ipfs/QmZeaVAAS9CUtKrKRmKadcFys8bjgH97ZUBXx7jeHFQtS6) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  width: 1536px;
+  height: 753px;
+  padding-right: 110px;
+
+}
+
+ .jumbotron{
+    background-color: transparent !important;
+    background-size: contain;
+    height: 200px;
+    padding-top: 10px;
+    padding-left: 60px;
+    color: #D50C0C;
+    font-style: oblique;
+}
+/* html { 
+    background: url(https://www.psdgraphics.com/wp-content/uploads/2009/10/red-abstract.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 1520px;
+    padding-left: 12px;
+  }  */
+  body{
+    background-color: transparent;
+  }
+  div{
+    color: black;
+  }
+  #column1{
+    color: black;
+    
+    border: solid
+  }
+  #column2{
+    color: black;
+    border: solid
+  }
+  #column3{
+    color: black;
+    border: solid
+  }
+
+  #accordionFlushExample{
+    padding-left: 100px;
+    padding-right: 200x;
+  }
+  
+
+  
